@@ -4,7 +4,7 @@ const Data = () => {
   return (
     <div className="home__data">
       <h1 className="home__title">
-        Srinivas Preetham Addepalli
+        Preetham Addepalli
         <svg
           width="36"
           height="36"
@@ -55,7 +55,7 @@ const Data = () => {
           ></path>
         </svg>
       </h1>
-      <h3 className="home__subtitle">Code & Business</h3>
+      <h3 className="home__description">Code & Business</h3>
       <p className="home__description">
         Pursuing Computer Science degree with a
         Management of Technology Minor at University of Minnesota, Twin Cities
