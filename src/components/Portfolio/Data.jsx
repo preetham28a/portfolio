@@ -2,8 +2,8 @@ import DroneSimulationImage from "../../assets/drone.png";
 import MinesweeperImage from "../../assets/minesweeper.png";
 import TetrisImage from "../../assets/tetris.jpg";
 import AIVolumeControllerImage from "../../assets/volume.jpeg";
-import Project5Image from "../../assets/work4.jpg"; // Placeholder for additional projects
-import Project6Image from "../../assets/work5.jpg"; // Placeholder for additional projects
+import PortfolioImage from "../../assets/portfolio.png";
+// import Project6Image from "../../assets/work5.jpg"; // Placeholder for additional projects
 
 export const projectsData = [
   {
@@ -32,14 +32,14 @@ export const projectsData = [
   },
   {
     id: 5,
-    image: Project5Image,
-    title: "Project 5",
-    link: "https://github.com/yourusername/project5",
+    image: PortfolioImage,
+    title: "Portfolio",
+    link: "https://github.com/preetham28a/portfolio",
   },
-  {
-    id: 6,
-    image: Project6Image,
-    title: "Project 6",
-    link: "https://github.com/yourusername/project6",
-  },
+  // {
+  //   id: 6,
+  //   image: Project6Image,
+  //   title: "Project 6",
+  //   link: "https://github.com/yourusername/project6",
+  // },
 ];
