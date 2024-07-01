@@ -1,22 +1,21 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.775d8131.css",
-    "main.js": "/portfolio/static/js/main.0375193c.js",
+    "main.js": "/portfolio/static/js/main.a27d6e27.js",
     "static/media/about.jpeg": "/portfolio/static/media/about.6632b90ecf07a1939081.jpeg",
     "static/media/profile.jpg": "/portfolio/static/media/profile.1343b8ec73cf4a38d952.jpg",
     "static/media/drone.png": "/portfolio/static/media/drone.d0d25d6ddd5784178beb.png",
+    "static/media/portfolio.png": "/portfolio/static/media/portfolio.0f51d0493205767c4c18.png",
     "static/media/book1.jpg": "/portfolio/static/media/book1.3b2e369ad442b8fc9c77.jpg",
     "static/media/volume.jpeg": "/portfolio/static/media/volume.ddc60a35a1c9af8b2377.jpeg",
     "static/media/Srinivas Preetham Addepalli Resume.pdf": "/portfolio/static/media/Srinivas Preetham Addepalli Resume.480da583ebea693f9993.pdf",
     "static/media/tetris.jpg": "/portfolio/static/media/tetris.a233d6bfe1b629bf4aaf.jpg",
-    "static/media/work4.jpg": "/portfolio/static/media/work4.aee985961b648f4df1f2.jpg",
-    "static/media/work5.jpg": "/portfolio/static/media/work5.094ec4a2224db8908873.jpg",
     "index.html": "/portfolio/index.html",
     "main.775d8131.css.map": "/portfolio/static/css/main.775d8131.css.map",
-    "main.0375193c.js.map": "/portfolio/static/js/main.0375193c.js.map"
+    "main.a27d6e27.js.map": "/portfolio/static/js/main.a27d6e27.js.map"
   },
   "entrypoints": [
     "static/css/main.775d8131.css",
-    "static/js/main.0375193c.js"
+    "static/js/main.a27d6e27.js"
   ]
 }
